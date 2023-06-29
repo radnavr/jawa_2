@@ -1,0 +1,34 @@
+[
+    {
+        "location": "Benešov",
+        "region": "Střední Čechy",
+        "temperature": "22",
+        "toDelete": false
+
+    },
+    {
+        "location": "Kladno",
+        "region": "Střední Čechy",
+        "temperature": "22",
+        "toDelete": false
+    },
+    {
+        "location": "Mladá Boleslav",
+        "region": "Střední Čechy",
+        "temperature": "22",
+        "toDelete": false
+    },
+    {
+        "location": "Kolín",
+        "region": "Střední Čechy",
+        "temperature": "22",
+        "toDelete": false
+    },
+    {
+        "location": "Louny",
+        "region": "Střední Čechy",
+        "temperature": "22",
+        "toDelete": false
+    }
+
+]
